@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohak Gupta (aka @mohakGuptaG)
 
-I'm a Computer Science student from India who loves building full-stack cloud applications, solving problems with clean code, and engineering scalable web platforms. Always learning, always shipping 🚀
+I'm a Computer Science student from India who loves building full-stack cloud applications, solving problems with clean code, and engineering scalable web platforms. Always learning.
 
 ---
 
