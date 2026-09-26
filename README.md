@@ -1,5 +1,5 @@
 <!-- Top Banner Image -->
-<<div align="center">
+<div align="center">
   <img src="banner.jpg" width="100%" alt="Header Banner" />
 </div>
 
