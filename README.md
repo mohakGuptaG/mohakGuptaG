@@ -1,6 +1,6 @@
 <!-- Top Banner Image -->
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/91/13/50/91135036a287ae2c5f15585d179c0026.jpg" width="100%" alt="Header Banner" />
+<<div align="center">
+  <img src="banner.jpg" width="100%" alt="Header Banner" />
 </div>
 
 <br/>
