@@ -7,7 +7,7 @@
 
 <!-- Dynamic Live Typing Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=Hey%2C+I'm+Mohak+Gupta;Full-Stack+Cloud+Developer;Crafting+Scalable+Web+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=%3E+Hey%2C+I'm+Mohak+Gupta;%2F%2F+Full-Stack+Cloud+Developer;*+Crafting+Scalable+Web+Platforms" alt="Typing SVG" />
 </div>
 
 <br/>
