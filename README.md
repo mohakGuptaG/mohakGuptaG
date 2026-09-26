@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohak Gupta (aka @mohakGuptaG)
 
-<!--
-**mohakGuptaG/mohakGuptaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student from India who loves building full-stack cloud applications, solving problems with clean code, and engineering scalable web platforms. Always learning, always shipping 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Ongoing projects
+
+- [Phantom Audit](https://github.com/mohakGuptaG/Phantom-Audit)
+
+---
+
+## 🌱 My toolbox
+
+### 🌐 Frontend & Backend
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND%20CSS-38B2D9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohakGuptaG&show_icons=true&theme=dark" alt="Mohak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakGuptaG&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 How to reach me
+
+* 📭 [Email me](mailto:mohakgupta1022@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mohak-gupta-g)
