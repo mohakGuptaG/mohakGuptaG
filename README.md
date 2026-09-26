@@ -7,23 +7,18 @@
 
 <!-- Dynamic Live Typing Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2D9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohak+Gupta;Full-Stack+Cloud+Developer;Building+Scalable+Web+Platforms;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2D9&center=true&vCenter=true&width=600&lines=Mohak+Gupta;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Right Aligned GIF & Bio -->
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 ### 👋 About Me
 
-I'm a Computer Science student from India who loves building full-stack cloud applications, solving problems with clean code, and engineering scalable web platforms. Always learning, always shipping 🚀
+I'm a Computer Science student from India who loves building full-stack cloud applications, solving problems with clean code, and engineering scalable web platforms.
 
 - 🔭 Currently working on cloud architectures and distributed web platforms
 - 💡 Exploring modern backend systems, serverless infrastructure, and high-performance APIs
 - 🎯 Focused on building production-ready projects and contributing to open source
-
-<br clear="both"/>
 
 ---
 
